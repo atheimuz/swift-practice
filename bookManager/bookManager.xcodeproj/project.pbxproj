@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		291AA36524946663008246BA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291AA36424946663008246BA /* main.swift */; };
 		291AA36C24946671008246BA /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291AA36B24946671008246BA /* Book.swift */; };
 		291AA36E24946779008246BA /* BookManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291AA36D24946779008246BA /* BookManager.swift */; };
+		2984DC992560F57D00C8CA70 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2984DC982560F57D00C8CA70 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,9 +26,9 @@
 
 /* Begin PBXFileReference section */
 		291AA36124946663008246BA /* bookManager */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = bookManager; sourceTree = BUILT_PRODUCTS_DIR; };
-		291AA36424946663008246BA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		291AA36B24946671008246BA /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		291AA36D24946779008246BA /* BookManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookManager.swift; sourceTree = "<group>"; };
+		2984DC982560F57D00C8CA70 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 		291AA36324946663008246BA /* bookManager */ = {
 			isa = PBXGroup;
 			children = (
-				291AA36424946663008246BA /* main.swift */,
+				2984DC982560F57D00C8CA70 /* main.swift */,
 				291AA36B24946671008246BA /* Book.swift */,
 				291AA36D24946779008246BA /* BookManager.swift */,
 			);
@@ -128,7 +128,7 @@
 			files = (
 				291AA36E24946779008246BA /* BookManager.swift in Sources */,
 				291AA36C24946671008246BA /* Book.swift in Sources */,
-				291AA36524946663008246BA /* main.swift in Sources */,
+				2984DC992560F57D00C8CA70 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
